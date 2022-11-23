@@ -1,0 +1,11 @@
+hostname_login: '152.228.149.229'
+port_login: 2244
+username_login: 'root'
+password_login: 'hivWTM864'
+cd_path: '/home/nft/public_html/Dynamic-NFT/pypy'
+on_client_server: 'True'
+url_jsons: 'https://dynamicnft.metavers.ae/Dynamic-NFT/accounts/'
+
+qr_path: 'https://dynamicnft.metavers.ae/Dynamic-NFT/qr/'
+qr_save_path: '/home/nft/public_html/Dynamic-NFT/qr/'
+json_save_path: '/home/nft/public_html/Dynamic-NFT/accounts/'
